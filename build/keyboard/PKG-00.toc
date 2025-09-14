@@ -1,0 +1,79 @@
+('C:\\Users\\shiv '
+ 'mahlan\\PycharmProjects\\PythonProject\\build\\keyboard\\keyboard.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\Users\\shiv '
+   'mahlan\\PycharmProjects\\PythonProject\\build\\keyboard\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\shiv '
+   'mahlan\\PycharmProjects\\PythonProject\\build\\keyboard\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\shiv '
+   'mahlan\\PycharmProjects\\PythonProject\\build\\keyboard\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\shiv '
+   'mahlan\\PycharmProjects\\PythonProject\\build\\keyboard\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\shiv '
+   'mahlan\\PycharmProjects\\PythonProject\\build\\keyboard\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\shiv '
+   'mahlan\\PycharmProjects\\PythonProject\\build\\keyboard\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\shiv '
+   'mahlan\\PycharmProjects\\PythonProject\\.venv\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\shiv '
+   'mahlan\\PycharmProjects\\PythonProject\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\shiv '
+   'mahlan\\PycharmProjects\\PythonProject\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\shiv '
+   'mahlan\\PycharmProjects\\PythonProject\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_setuptools',
+   'C:\\Users\\shiv '
+   'mahlan\\PycharmProjects\\PythonProject\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_setuptools.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'C:\\Users\\shiv '
+   'mahlan\\PycharmProjects\\PythonProject\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'C:\\Users\\shiv '
+   'mahlan\\PycharmProjects\\PythonProject\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('pyi_rth_mplconfig',
+   'C:\\Users\\shiv '
+   'mahlan\\PycharmProjects\\PythonProject\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_mplconfig.py',
+   'PYSOURCE'),
+  ('keyboard',
+   'C:\\Users\\shiv mahlan\\PycharmProjects\\PythonProject\\keyboard.py',
+   'PYSOURCE')],
+ 'python310.dll',
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
