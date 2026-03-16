@@ -16,9 +16,6 @@
 
 ---
 
-## 📸 Demo
-
-> 🎥 *Demo video / GIF coming soon — record with OBS and drop it here*
 
 ---
 
